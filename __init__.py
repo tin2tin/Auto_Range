@@ -20,7 +20,7 @@ bl_info = {
     "name": "Auto Range",
     "author": "Tintwotin",
     "version": (1, 0),
-    "blender": (2, 90, 0),
+    "blender": (3, 0, 0),
     "location": "View > Range > Auto Range",
     "description": "Auto-sets the range to include all strips.",
     "warning": "",
